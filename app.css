@@ -1,0 +1,82 @@
+body {
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-bg {
+    background: #303030 url('./IMG/Group1/Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 795px;
+}
+
+.customTitle {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.customHead {
+    height: 650px;
+    background: url(./IMG/Group1/Povrce.png);
+    background-repeat: no-repeat;
+}
+
+.decorateFont {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.card {
+    border: none;
+}
+
+.promoSection {
+    background-image: url(./IMG/Group3/Design.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aboutSection {
+    background: #303030 url(./IMG/Group4/Design.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: auto;
+}
+
+.customCard {
+    background-color: #303030;
+    border: solid 5px white;
+    width: 210px;
+    height: 210px;
+    margin: auto;
+}
+
+#about {
+    background-color: #303030;
+    padding-bottom: 10rem;
+}
+
+.roundedCards {
+    padding-bottom: 10rem;
+}
+
+.promoSection2 {
+    background-image: url(./IMG/Group5/Design.png);
+    background-repeat: no-repeat;
+    background-size: 110% 100%;
+    bottom: 30px;
+    position: relative;
+}
+
+.customQuotes {
+    background: url(./IMG/Group6/Background.png);
+    padding: 15em 0;
+}
+
+.customSubscribe {
+    background: #f4f4f4 url(./IMG/Group7/Design.png);
+    padding: 10em 5em;
+}
+
+#contacts {
+    background-color: #303030;
+    padding: 10em 2em;
+}
